@@ -75,7 +75,7 @@ class A {
 
 class A {
     constructor() {
-        // OK. constructor is exempt
+        // OK. constructor is exempty
     }
 }
 
